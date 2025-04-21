@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mail.urbanpersonaltraining.com.au
 mx: urbanpersonaltraining.com.au
 mx: ws141.win.arvixe.com

@@ -1,6 +1,6 @@
 version: STSv1
-mode: enforce
+mode: none
 mx: mail.urbanpersonaltraining.com.au
 mx: urbanpersonaltraining.com.au
 mx: ws141.win.arvixe.com
-max_age: 604800
+max_age: 84600

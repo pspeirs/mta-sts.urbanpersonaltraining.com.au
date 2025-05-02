@@ -1,4 +1,4 @@
 version: STSv1
-mode: none
+mode: testing
 mx: *.win.arvixe.com
-max_age: 84600
+max_age: 86400
